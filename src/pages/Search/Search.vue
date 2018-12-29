@@ -13,7 +13,10 @@
 </script>
 
 <style lang='stylus' scoped>
-   .search
-   	  color purple
+.search
+	height 100%
+	width 100%
+	background green
+  
 
 </style>

@@ -1,11 +1,11 @@
 <template>
-	<div class="app">
-		主面板
+	<div id="app">
+    <router-view></router-view>
 	</div>
 
 </template>
 
-<script>
+<script>  
   export default{
   	name:"App"
   }
@@ -13,10 +13,10 @@
 </script>
 
 <style lang='stylus' scoped>
-   .app
-   	  color red
-   	  heigt 5rem
-   	  width 100%
+   #app
+     height:100%
+     width 100%
+   	 background #F5F5F5
    	  
 
 </style>

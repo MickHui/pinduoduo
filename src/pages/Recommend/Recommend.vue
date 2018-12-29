@@ -1,8 +1,7 @@
 <template>
 	<div class="recommend">
-		Recommend
+		推荐页
 	</div>
-
 </template>
 
 <script>
@@ -13,7 +12,10 @@
 </script>
 
 <style lang='stylus' scoped>
-   .recommend
-   	  color yellow
+.recommend 
+   height 100%
+   width 100%
+   background yellow
+
 
 </style>

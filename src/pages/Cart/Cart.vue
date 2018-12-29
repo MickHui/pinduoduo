@@ -13,8 +13,10 @@
 </script>
 
 <style lang='stylus' scoped>
-   .cart
-   	  color blue
-   	  
+.cart
+	height 100%
+	width 100%
+	background orange
+  
 
 </style>

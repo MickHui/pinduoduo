@@ -1,8 +1,7 @@
 <template>
-	<div class="home border-bottom">
-		HOME
+	<div class="home">
+		首页
 	</div>
-
 </template>
 
 <script>
@@ -13,9 +12,8 @@
 </script>
 
 <style lang='stylus' scoped>
-   .home
-   	  color #ccc
-   	  
-   	  
-
+.home
+  height 100%
+  width 100%
+  background blue
 </style>
